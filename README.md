@@ -1,4 +1,4 @@
 # apnacollege-demo
-author-(rishabh) barle
+author-(bhunehswar) barle
 <br>
 this is m first git repository
